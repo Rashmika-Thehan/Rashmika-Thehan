@@ -12,4 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Rashmika-Thehan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmika-Thehan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/Rashmika-Thehan/Rashmika-Thehan/output/snake.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
