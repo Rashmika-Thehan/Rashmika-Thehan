@@ -1,5 +1,9 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=false&text=Hi%20%F0%9F%91%8B%20I'm%20Rashmika%20Thehan&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
+
 # 💫 About Me:
-- 🔭 I’m currently working on **Full Stack Application Development**<br><br>- 🌱 I’m currently learning **NEXT.js**<br><br>- 👯 I’m looking to collaborate on **RAG / ML integrated Projects**<br><br>- 🤝 I’m looking for help with **Backend & ML Development**<br><br>- 💬 Ask me about **Backend or ML**<br><br>- 📫 How to reach me **rashmikathehan4@gmail.com**<br><br>- ⚡ Fun fact **I am a Lead Guitarist**
+-🔭 I’m currently working on **Full Stack Application Development**<br><br>- 🌱 I’m currently learning **NEXT.js**<br><br>- 👯 I’m looking to collaborate on **RAG / ML integrated Projects**<br><br>- 🤝 I’m looking for help with **Backend & ML Development**<br><br>- 💬 Ask me about **Backend or ML**<br><br>- 📫 How to reach me **rashmikathehan4@gmail.com**<br><br>- ⚡ Fun fact **I am a Lead Guitarist**
 
 
 ## 🌐 Socials:
