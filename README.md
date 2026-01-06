@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
--🔭 I’m currently working on **Full Stack Application Development**<br><br>- 🌱 I’m currently learning **NEXT.js**<br><br>- 👯 I’m looking to collaborate on **RAG / ML integrated Projects**<br><br>- 🤝 I’m looking for help with **Backend & ML Development**<br><br>- 💬 Ask me about **Backend or ML**<br><br>- 📫 How to reach me **rashmikathehan4@gmail.com**<br><br>- ⚡ Fun fact **I am a Lead Guitarist**
+-🔭 I’m currently working on **Full Stack Application Development**<br>- 🌱 I’m currently learning **NEXT.js**<br>- 👯 I’m looking to collaborate on **RAG / ML integrated Projects**<br>- 🤝 I’m looking for help with **Backend & ML Development**<br>- 💬 Ask me about **Backend or ML**<br>- 📫 How to reach me **rashmikathehan4@gmail.com**<br>- ⚡ Fun fact **I am a Lead Guitarist**
 
 
 ## 🌐 Socials:
