@@ -1,5 +1,7 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=false&text=Hi%20%F0%9F%91%8B%20I'm%20Rashmika%20Thehan&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <h1 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2000&pause=100&color=00FF00&center=false&vCenter=true&width=1000&lines=%24+whoami;Hi!!+I'm+Rashmika+Thehan;%24+echo+%24ROLE;Backend+Developer;%5B%23%23%23%23%23%23%23%23----%5D+80%25+Loading...;System+Status:+ONLINE" />
+</h1>
 </div>
 
 <table border="0" style="border: none;">
