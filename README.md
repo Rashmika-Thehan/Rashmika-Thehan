@@ -1,6 +1,7 @@
 <div>
   <h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2000&pause=100&color=00FF00&center=false&vCenter=true&width=1000&lines=%24+whoami;Hi!!+I'm+Rashmika+Thehan;%24+echo+%24ROLE;Backend+Developer;%5B%23%23%23%23%23%23%23%23----%5D+80%25+Loading...;System+Status:+ONLINE" />
+  <h1 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=45&duration=2500&pause=100&color=00FF00&center=false&vCenter=true&width=1000&height=100&lines=%24+whoami;Hi!!+I'm+Rashmika+Thehan;%24+echo+%24ROLE;Backend+Developer;%5B%23%23%23%23%23%23%23%23----%5D+80%25+Loading...;System+Status:+ONLINE" />
 </h1>
 </div>
 
