@@ -10,7 +10,7 @@
     <td width="80%" valign="top" style="border: none;">
 
 # 💫 About Me:
--🔭 I’m currently working on **Full Stack Application Development**<br>- 🌱 I’m currently learning **NEXT.js**<br>- 👯 I’m looking to collaborate on **RAG / ML integrated Projects**<br>- 🤝 I’m looking for help with **Backend & ML Development**<br>- 💬 Ask me about **Backend or ML**<br>- 📫 How to reach me **rashmikathehan4@gmail.com**<br>- ⚡ Fun fact **I am a Guitarist**
+-🔭 I’m currently working on **Full Stack Application Development**<br>- 🌱 I’m currently learning **Laravel**<br>- 👯 I’m looking to collaborate on **RAG / ML integrated Projects**<br>- 🤝 I’m looking for help with **Backend & ML Development**<br>- 💬 Ask me about **Backend or ML**<br>- 📫 How to reach me **rashmikathehan4@gmail.com**<br>- ⚡ Fun fact **I am a Guitarist**
 
 </td>
     <td width="20%" valign="center" style="border: none;">
