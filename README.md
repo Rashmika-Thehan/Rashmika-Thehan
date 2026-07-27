@@ -98,9 +98,19 @@
 ###
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=Rashmika-Thehan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rashmika-Thehan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://streak-stats.demolab.com/?user=Rashmika-Thehan&theme=dark&hide_border=false)<br/>
+<table border="0" style="border: none;">
+  <tr align="center">
+    <td>
+      <img height="165" src="https://github-readme-stats.shion.dev/api?username=Rashmika-Thehan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Rashmika's GitHub Stats" />
+    </td>
+    <td>
+      <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rashmika-Thehan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
+    </td>
+    <td>
+      <img height="165" src="https://streak-stats.demolab.com/?user=Rashmika-Thehan&theme=dark&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 
 ## 🐍 Contribution Snake
