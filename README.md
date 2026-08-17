@@ -3,6 +3,12 @@
   <h1 align="left">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=45&duration=2500&pause=100&color=00FF00&center=false&vCenter=true&width=1000&height=100&lines=%24+whoami;Hi!!+I'm+Rashmika+Thehan;%24+echo+%24ROLE;Backend+Developer;%5B%23%23%23%23%23%23%23%23----%5D+80%25+Loading...;System+Status:+ONLINE" />
 </h1>
+    <div>
+  <!-- VISUALLY ENHANCED COUNTER -->
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=Rashmika-Thehan&label=SYSTEM%20VISITS&color=0000000&style=for-the-badge&logo=github&logoColor=black" alt="System Visits" />
+  </p>
+</div>
 </div>
 
 <table border="0" style="border: none;">
@@ -14,7 +20,7 @@
 
 </td>
     <td width="20%" valign="center" style="border: none;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXAwMWRrZ3k5ZGVuMTl4aThlZzczdmRhcGo5cnVzNTF4bTN0dzFkOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13GIgrGdslD9oQ/giphy.gif" width="250" alt="Coding gif"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXAwMWRrZ3k5ZGVuMTl4aThlZzczdmRhcGo5cnVzNTF4bTN0dzFkOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13GIgrGdslD9oQ/giphy.gif" width="450" alt="Coding gif"/>
     </td>
   </tr>
 </table>
@@ -62,19 +68,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
 </div>
 </br>
 
@@ -94,7 +91,6 @@
     </td>
   </tr>
 </table>
-
 
 ## 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/Rashmika-Thehan/Rashmika-Thehan/output/snake.svg)
