@@ -6,7 +6,7 @@
     <div>
   <!-- VISUALLY ENHANCED COUNTER -->
   <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=Rashmika-Thehan&label=SYSTEM%20VISITS&color=0000000&style=for-the-badge&logo=github&logoColor=black" alt="System Visits" />
+    <img src="https://komarev.com/ghpvc/?username=Rashmika-Thehan&label=SYSTEM%20VISITS&color=000000&style=for-the-badge&logo=github&logoColor=black" alt="System Visits" />
   </p>
 </div>
 </div>
