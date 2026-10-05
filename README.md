@@ -92,10 +92,11 @@
   </tr>
 </table>
 
-## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/Rashmika-Thehan/Rashmika-Thehan/output/snake.svg)
+<!-- ## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/Rashmika-Thehan/Rashmika-Thehan/output/snake.svg) -->
 
 ## 🧊 3D Contribution Graph
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg) -->
+![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
 
-
+<!-- ## 🟡 Contribution Pacman
+![Pacman Contribution Graph](https://raw.githubusercontent.com/Rashmika-Thehan/Rashmika-Thehan/output/pacman-contribution-graph-dark.svg) -->
