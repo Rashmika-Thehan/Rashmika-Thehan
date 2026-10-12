@@ -13,13 +13,13 @@
 
 <table border="0" style="border: none;">
   <tr>
-    <td width="80%" valign="top" style="border: none;">
+    <td width="90%" valign="top" style="border: none;">
 
 # 💫 About Me:
 -🔭 I’m currently working on **Full Stack Application Development**<br>- 🌱 I’m currently learning **Laravel, NestJs & Docker**<br>- 👯 I’m looking to collaborate on **RAG / ML integrated Projects**<br>- 🤝 I’m looking for help with **Backend & ML Development**<br>- 💬 Ask me about **Backend or ML**<br>- 📫 How to reach me **rashmikathehan4@gmail.com**<br>- ⚡ Fun fact **I am a Guitarist**
 
 </td>
-    <td width="20%" valign="center" style="border: none;">
+    <td width="10%" valign="center" style="border: none;">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXAwMWRrZ3k5ZGVuMTl4aThlZzczdmRhcGo5cnVzNTF4bTN0dzFkOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13GIgrGdslD9oQ/giphy.gif" width="450" alt="Coding gif"/>
     </td>
   </tr>
