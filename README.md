@@ -32,18 +32,18 @@
 
 <br/>
 
-<h3 align="center">🎨 Frontend</h3>
+<!-- <h3 align="center">🎨 Frontend</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 500px; margin: 0 auto;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-</div>
+</div> -->
 
 <br/>
 
-<h3 align="center">⚙️ Backend</h3>
+<!-- <h3 align="center">⚙️ Backend</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 500px; margin: 0 auto;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
@@ -53,11 +53,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-</div>
+</div> -->
 
 <br/>
 
-<h3 align="center">🛠️ Databases, Tools & DevOps</h3>
+<!-- <h3 align="center">🛠️ Databases, Tools & DevOps</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 500px; margin: 0 auto;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
@@ -72,7 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" />
-</div>
+</div> -->
 </br>
 
 ###
