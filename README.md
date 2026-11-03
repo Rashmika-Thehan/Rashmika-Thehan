@@ -78,7 +78,7 @@
 ###
 # 📊 GitHub Stats:
 
-<table border="0" style="border: none;">
+<!-- <table border="0" style="border: none;">
   <tr align="center">
     <td>
       <img height="165" src="https://github-readme-stats.shion.dev/api?username=Rashmika-Thehan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Rashmika's GitHub Stats" />
@@ -90,13 +90,12 @@
       <img height="165" src="https://streak-stats.demolab.com/?user=Rashmika-Thehan&theme=dark&hide_border=false" alt="GitHub Streak" />
     </td>
   </tr>
-</table>
+</table> -->
+ ## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/Rashmika-Thehan/Rashmika-Thehan/output/snake.svg)
 
-<!-- ## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/Rashmika-Thehan/Rashmika-Thehan/output/snake.svg) -->
-
-## 🧊 3D Contribution Graph
-![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
+<!-- ## 🧊 3D Contribution Graph
+![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg) -->
 
 <!-- ## 🟡 Contribution Pacman
 ![Pacman Contribution Graph](https://raw.githubusercontent.com/Rashmika-Thehan/Rashmika-Thehan/output/pacman-contribution-graph-dark.svg) -->
