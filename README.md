@@ -28,90 +28,18 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rashmika-Thehan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rashmika-thehan-76a02027b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rashmikathehan4@gmail.com) 
 
-<!-- <h2 align="center">💻 Tech Stack</h2> -->
-
+<h2 align="center">💻 Tech Stack</h2>
 <br/>
-
-## ⚙️ Engineering Stack
-
-```mermaid
-flowchart TB
-    classDef client fill:#172554,stroke:#3B82F6,color:#BFDBFE
-    classDef backend fill:#052E16,stroke:#22C55E,color:#BBF7D0
-    classDef data fill:#312E81,stroke:#818CF8,color:#E0E7FF
-    classDef messaging fill:#422006,stroke:#F59E0B,color:#FDE68A
-    classDef ml fill:#4A1942,stroke:#D946EF,color:#F5D0FE
-    classDef infra fill:#27272A,stroke:#71717A,color:#E4E4E7
-
-    subgraph CLIENT["01 / CLIENT LAYER"]
-        direction LR
-        REACT["React"]
-        TS["TypeScript"]
-    end
-
-    subgraph SERVER["02 / BACKEND ENGINEERING"]
-        direction TB
-        NODE["Node.js"]
-        NEST["NestJS"]
-        EXPRESS["Express.js"]
-        LARAVEL["Laravel"]
-        NODE --> NEST
-        NODE --> EXPRESS
-    end
-
-    subgraph DATA["03 / DATA & PERSISTENCE"]
-        direction LR
-        MONGO[("MongoDB")]
-        POSTGRES[("PostgreSQL")]
-        MYSQL[("MySQL")]
-        PRISMA["Prisma ORM"]
-    end
-
-    subgraph ASYNC["04 / EVENT-DRIVEN SYSTEMS"]
-        KAFKA{{"Apache Kafka"}}
-    end
-
-    subgraph INTELLIGENCE["05 / AI & MACHINE LEARNING"]
-        PYTHON["Python"]
-        XGB["XGBoost"]
-        SKLEARN["Scikit-learn"]
-        RAG["RAG"]
-        PYTHON --> XGB
-        PYTHON --> SKLEARN
-    end
-
-    subgraph INFRA["06 / INFRASTRUCTURE"]
-        direction LR
-        DOCKER["Docker"]
-        LINUX["Linux"]
-        AWS["AWS"]
-        NGINX["Nginx"]
-    end
-
-    CLIENT --> SERVER
-    SERVER --> DATA
-    SERVER --> ASYNC
-    SERVER --> INTELLIGENCE
-    SERVER --> INFRA
-
-    class REACT,TS client
-    class NODE,NEST,EXPRESS,LARAVEL backend
-    class MONGO,POSTGRES,MYSQL,PRISMA data
-    class KAFKA messaging
-    class PYTHON,XGB,SKLEARN,RAG ml
-    class DOCKER,LINUX,AWS,NGINX infra
-```
-
-<!-- <h3 align="center">🎨 Frontend</h3>
+<h3 align="center">🎨 Frontend</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 500px; margin: 0 auto;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-</div> -->
+</div>
 
-<!-- <h3 align="center">⚙️ Backend</h3>
+<h3 align="center">⚙️ Backend</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 500px; margin: 0 auto;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
@@ -121,9 +49,9 @@ flowchart TB
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-</div> -->
+</div>
 
-<!-- <h3 align="center">🛠️ Databases, Tools & DevOps</h3>
+<h3 align="center">🛠️ Databases, Tools & DevOps</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 500px; margin: 0 auto;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
@@ -131,14 +59,13 @@ flowchart TB
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" />
-</div> -->
+</div>
 <!--
 ###
 # 📊 GitHub Stats: -->
