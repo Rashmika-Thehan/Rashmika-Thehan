@@ -32,6 +32,76 @@
 
 <br/>
 
+## ⚙️ Engineering Stack
+
+```mermaid
+flowchart TB
+    classDef client fill:#172554,stroke:#3B82F6,color:#BFDBFE
+    classDef backend fill:#052E16,stroke:#22C55E,color:#BBF7D0
+    classDef data fill:#312E81,stroke:#818CF8,color:#E0E7FF
+    classDef messaging fill:#422006,stroke:#F59E0B,color:#FDE68A
+    classDef ml fill:#4A1942,stroke:#D946EF,color:#F5D0FE
+    classDef infra fill:#27272A,stroke:#71717A,color:#E4E4E7
+
+    subgraph CLIENT["01 / CLIENT LAYER"]
+        direction LR
+        REACT["React"]
+        TS["TypeScript"]
+    end
+
+    subgraph SERVER["02 / BACKEND ENGINEERING"]
+        direction TB
+        NODE["Node.js"]
+        NEST["NestJS"]
+        EXPRESS["Express.js"]
+        LARAVEL["Laravel"]
+        NODE --> NEST
+        NODE --> EXPRESS
+    end
+
+    subgraph DATA["03 / DATA & PERSISTENCE"]
+        direction LR
+        MONGO[("MongoDB")]
+        POSTGRES[("PostgreSQL")]
+        MYSQL[("MySQL")]
+        PRISMA["Prisma ORM"]
+    end
+
+    subgraph ASYNC["04 / EVENT-DRIVEN SYSTEMS"]
+        KAFKA{{"Apache Kafka"}}
+    end
+
+    subgraph INTELLIGENCE["05 / AI & MACHINE LEARNING"]
+        PYTHON["Python"]
+        XGB["XGBoost"]
+        SKLEARN["Scikit-learn"]
+        RAG["RAG"]
+        PYTHON --> XGB
+        PYTHON --> SKLEARN
+    end
+
+    subgraph INFRA["06 / INFRASTRUCTURE"]
+        direction LR
+        DOCKER["Docker"]
+        LINUX["Linux"]
+        AWS["AWS"]
+        NGINX["Nginx"]
+    end
+
+    CLIENT --> SERVER
+    SERVER --> DATA
+    SERVER --> ASYNC
+    SERVER --> INTELLIGENCE
+    SERVER --> INFRA
+
+    class REACT,TS client
+    class NODE,NEST,EXPRESS,LARAVEL backend
+    class MONGO,POSTGRES,MYSQL,PRISMA data
+    class KAFKA messaging
+    class PYTHON,XGB,SKLEARN,RAG ml
+    class DOCKER,LINUX,AWS,NGINX infra
+```
+
 <!-- <h3 align="center">🎨 Frontend</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 500px; margin: 0 auto;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
