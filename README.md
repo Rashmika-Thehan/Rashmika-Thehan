@@ -1,7 +1,7 @@
 <div>
   <h1 align="left">
   <h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=45&duration=2500&pause=100&color=00FF00&center=false&vCenter=true&width=1000&height=100&lines=%24+whoami;Hi!!+I'm+Rashmika+Thehan;%24+echo+%24ROLE;Backend+Developer;%5B%23%23%23%23%23%23%23%23----%5D+80%25+Loading...;System+Status:+ONLINE" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=45&duration=2500&pause=100&color=00FF00&center=false&vCenter=true&width=1000&height=100&lines=%24+whoami;Hi!!+I'm+Rashmika+Thehan;%24+echo+%24ROLE;Software+Engineer;%5B%23%23%23%23%23%23%23%23----%5D+80%25+Loading...;System+Status:+ONLINE" />
 </h1>
     <div>
   <!-- VISUALLY ENHANCED COUNTER -->
@@ -16,7 +16,7 @@
     <td width="90%" valign="top" style="border: none;">
 
 # 💫 About Me:
--🔭 I’m currently working on **Full Stack Application Development**<br>- 🌱 I’m currently learning **Laravel, NestJs & Docker**<br>- 👯 I’m looking to collaborate on **RAG / ML integrated Projects**<br>- 🤝 I’m looking for help with **Backend & ML Development**<br>- 💬 Ask me about **Backend or ML**<br>- 📫 How to reach me **rashmikathehan4@gmail.com**<br>- ⚡ Fun fact **I am a Guitarist**
+-🔭 I’m currently working on **Full Stack Application Development**<br>- 🌱 I’m currently learning **NestJs, Docker, k8s and AWS**<br>- 👯 I’m looking to collaborate on **RAG / ML integrated Projects**<br>- 🤝 I’m looking for help with **Backend & ML Development**<br>- 💬 Ask me about **Backend or ML**<br>- 📫 How to reach me **rashmikathehan4@gmail.com**<br>- ⚡ Fun fact **I am a Guitarist**
 
 </td>
     <td width="10%" valign="center" style="border: none;">
